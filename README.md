@@ -1,10 +1,10 @@
-# Slime Mold ve Harris Hawk Optimizasyonu ile Sırt Çantası Problemi
-Bu proje, Slime Mold ve Harris Hawk Optimizasyonu adlı iki meta-sezgisel algoritmayı kullanarak sırt çantası problemine çözüm bulmayı amaçlamaktadır.
+# Knapsack Problem with Slime Mold and Harris Hawk Optimization
+This project aims to find solutions to the knapsack problem using two metaheuristic algorithms: Slime Mold and Harris Hawk Optimization.
 
-Proje Açıklaması
-Slime Mold ve Harris Hawk Optimizasyonu, doğadan esinlenen ve meta-sezgisel algoritma olarak bilinen iki farklı yaklaşımdır. Sırt çantası problemi ise bir optimizasyon problemidir, çanta kapasitesi sınırlıyken en yüksek değere sahip eşyaların seçilmesini hedefler.
+## Project Description
+Slime Mold and Harris Hawk Optimization are two different approaches inspired by nature and known as metaheuristic algorithms. The knapsack problem, on the other hand, is an optimization problem that aims to select items with the highest value while considering the limited capacity of a knapsack.
 
-Bu proje, Slime Mold ve Harris Hawk Optimizasyonu algoritmalarını sırt çantası problemine uygulayarak, çanta kapasitesi ve eşyaların değerleri ve ağırlıkları gibi parametreleri optimize etmektedir.
+This project applies the Slime Mold and Harris Hawk Optimization algorithms to the knapsack problem, optimizing parameters such as knapsack capacity, item values, and weights.
 
 ![image](https://github.com/eyuphan-oguz/meta-heuristic_optimization/assets/75530935/86d1e9ee-f90d-41e5-88ab-1451764545f9)
 ![image](https://github.com/eyuphan-oguz/meta-heuristic_optimization/assets/75530935/d5ee8133-a8df-4daa-8fde-059ecc6786cb)
