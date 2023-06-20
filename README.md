@@ -1,4 +1,4 @@
-#Slime Mold ve Harris Hawk Optimizasyonu ile Sırt Çantası Problemi
+# Slime Mold ve Harris Hawk Optimizasyonu ile Sırt Çantası Problemi
 Bu proje, Slime Mold ve Harris Hawk Optimizasyonu adlı iki meta-sezgisel algoritmayı kullanarak sırt çantası problemine çözüm bulmayı amaçlamaktadır.
 
 Proje Açıklaması
